@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bsdnetpl
 - 👀 I’m interested in ... ASP.NET Core, C#, Java Script, Angular And DB
 - 🌱 I’m currently learning ... ASP.NET Core, React
-- 💞️ I’m looking to collaborate on ... ASP.NET Core (API), React
+- 💞️ I’m looking to collaborate on ... ASP.NET Core (API), Angular
 - 📫 How to reach me ... adrian@bsd-net.pl
 
 <!---
